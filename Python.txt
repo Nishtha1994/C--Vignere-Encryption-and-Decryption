@@ -1,0 +1,14 @@
+PRINT
+How to convert in int and not float?
+Add two variables
+Built in functions: import math, math.sqrt(4)
+
+num=str(18) print(num). backtics and str same `
+print("bucky" + num)
+
+input vs raw_input()
+tuplesin strings or matrix format
+
+slicing
+start and end leave empty
+right to left. skip and print
